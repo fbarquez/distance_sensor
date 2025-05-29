@@ -1,0 +1,34 @@
+# === Carpeta de documentación personal (como informes o PDFs) ===
+docs/
+
+# === Archivos de compilación ===
+build/
+dist/
+debug/
+*.o
+*.p1
+*.d
+*.hex
+*.elf
+*.map
+*.lst
+*.sym
+*.sdb
+*.cmf
+*.rlf
+
+# === Configuración privada de MPLAB X ===
+nbproject/private/
+
+# === Archivos temporales del sistema y editores ===
+*~
+*.bak
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# === Archivos de EAGLE temporales ===
+*.s#*
+*.b#*
+
