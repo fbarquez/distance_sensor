@@ -173,6 +173,14 @@ Schematic (`.sch`) and Board Layout (`.brd`) are included in the `eagle/` direct
 
 ---
 
+## Requirements
+
+To build, program, or extend this project, you will need a set of development tools such as the MPLAB X IDE and the XC8 compiler.
+
+Please refer to the [requirements.md](requirements.md) file for full details on the required software, versions, and links to official downloads.
+
+---
+
 ## References
 
 * [PIC16F1936 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/41364E.pdf)
