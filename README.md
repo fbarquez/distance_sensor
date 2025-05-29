@@ -130,13 +130,13 @@ Abstandsssensor.X/
 
 ## Features
 
-* ✔ Real-time distance display on LCD
-* ✔ Visual LED indication based on proximity
-* ✔ Acoustic alarm for dangerous range
-* ✔ Bluetooth communication with Android device
-* ✔ Fully coded in C using **XC8** and **MPLAB X IDE**
-* ✔ Clean code style with `.clang-format`
-* ✔ Version-controlled with Git
+* Real-time distance display on LCD
+* Visual LED indication based on proximity
+* Acoustic alarm for dangerous range
+* Bluetooth communication with Android device
+* Fully coded in C using **XC8** and **MPLAB X IDE**
+* Clean code style with `.clang-format`
+* Version-controlled with Git
 
 ---
 
